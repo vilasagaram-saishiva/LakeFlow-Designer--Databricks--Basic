@@ -190,4 +190,7 @@ Import the sample CSV reference datasets to your workspace catalog.
 
 Construct the layout map matching the architecture specifications detailed above.
 
+<img width="1866" height="827" alt="Screenshot 2026-06-01 115427" src="https://github.com/user-attachments/assets/3a90a792-2c4a-4f49-a3d0-350c460dbcea" />
+
+
 
